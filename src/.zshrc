@@ -115,7 +115,7 @@ alias cdw="cd ~/workspace"
 alias cdb="cd ~/Documents/Brain"
 
 # bun completions
-[ -s "/Users/kaoru-furusawa/.bun/_bun" ] && source "/Users/kaoru-furusawa/.bun/_bun"
+[ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"
 
 # bun
 export BUN_INSTALL="$HOME/.bun"
