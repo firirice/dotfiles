@@ -1,0 +1,21 @@
+{
+  "claude-code": {
+    "index": "https://code.claude.com/docs/llms.txt",
+    "output": "src/.claude/skills/claude-code",
+    "include": [
+      "Getting started/Core concepts",
+      "Getting started/Use Claude Code",
+      "Build with Claude Code/Agents and parallel work",
+      "Build with Claude Code/MCP",
+      "Build with Claude Code/Skills",
+      "Build with Claude Code/Plugins",
+      "Build with Claude Code/Automation",
+      "Build with Claude Code/Troubleshooting",
+      "Configuration/Settings",
+      "Configuration/Permissions and sandboxing",
+      "Configuration/Model and responses",
+      "Configuration/Interface",
+      "Reference/Reference"
+    ]
+  }
+}
