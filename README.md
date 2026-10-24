@@ -6,7 +6,7 @@
 ## Setup
 
 ```sh
-git clone https://github.com/firirice/dotfiles.git ~/dotfiles
+git clone https://github.com/kaoru-f7/dotfiles.git ~/dotfiles
 ~/dotfiles/install.sh
 ```
 
